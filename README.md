@@ -20,7 +20,7 @@ The program code is post_calib.pro
 #### Installing guide
 
 + Download the EB_20220223
-+ Typical install time is ? sec
++ Typical install time is 10 sec
 
 #### Demo
 
@@ -48,7 +48,7 @@ The program code file is all_post_calib.pro
 #### Installing guide
 
 + Download the EB_20220223
-+ Typical install time is ? sec
++ Typical install time is 10 sec
 
 #### Demo
 
@@ -70,7 +70,9 @@ The program code file is all_post_calib.pro
 
 #### Installing guide
 
++ Download the EB_20220223
 + Put the directory 'run_desire' under 'run' directory of DeSIRe
++ Typical install time is 1 minute
 
 #### Demo
 
