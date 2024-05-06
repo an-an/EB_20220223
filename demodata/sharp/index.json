@@ -1,0 +1,233 @@
+{
+	"version": "0.5",
+	"requestid": "JSOC_20221207_321",
+	"method": "url-tar",
+	"protocol": "fits",
+	"count": "55",
+	"size": "15",
+	"exptime": "2022.12.07_08:02:04_UT",
+	"dir": "\/SUM66\/D1585737360\/S00000",
+	"status": "0",
+	"keywords": "**IN FITS FILES**",
+	"tarfile": "\/SUM66\/D1585737360\/S00000\/JSOC_20221207_321.tar",
+	"data": [{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.magnetogram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.bitmap.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Dopplergram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.continuum.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Bp.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Bt.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Br.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Bp_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Bt_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.Br_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:36:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_193600_TAI.conf_disambig.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.magnetogram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.bitmap.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Dopplergram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.continuum.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Bp.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Bt.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Br.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Bp_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Bt_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.Br_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_19:48:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_194800_TAI.conf_disambig.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.magnetogram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.bitmap.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Dopplergram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.continuum.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Bp.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Bt.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Br.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Bp_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Bt_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.Br_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:00:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_200000_TAI.conf_disambig.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.magnetogram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.bitmap.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Dopplergram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.continuum.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Bp.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Bt.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Br.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Bp_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Bt_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.Br_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:12:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_201200_TAI.conf_disambig.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.magnetogram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.bitmap.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Dopplergram.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.continuum.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Bp.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Bt.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Br.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Bp_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Bt_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.Br_err.fits"
+	},
+	{
+		"record": "hmi.sharp_cea_720s_nrt[6830][2022.02.23_20:24:00_TAI]",
+		"filename": "hmi.sharp_cea_720s_nrt.6830.20220223_202400_TAI.conf_disambig.fits"
+	}]
+}

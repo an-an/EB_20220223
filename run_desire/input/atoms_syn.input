@@ -1,0 +1,25 @@
+# Nmetals
+# Location of this file (KEYWORD_REQUIRED) is set in "keyword.input".
+
+  12
+
+# Metals
+# First line should always specify the hydrogen atom.
+#
+# model file                         ACT/PAS   INITIAL_SOLUTION  pop file
+# (path from our execution dir)
+
+  ../../var/Atoms/H_9.atom           ACTIVE    ZERO_RADIATION    pops.H.out
+  ../../var/Atoms/C.atom             PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/O.atom             PASSIVE   ZERO_RADIATION 
+  ../../var/Atoms/Si.atom            PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/Al.atom            PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/CaII_CRDbark.atom  ACTIVE    ZERO_RADIATION    pops.CA.out
+  ../../var/Atoms/Fe.atom            PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/He.atom            PASSIVE   ZERO_RADIATION
+  ../../var/Atoms/Mg.atom            PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/N.atom             PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/NaI_fine.atom      PASSIVE   LTE_POPULATIONS
+  ../../var/Atoms/S.atom             PASSIVE   LTE_POPULATIONS
+
+#end
