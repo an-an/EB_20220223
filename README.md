@@ -57,7 +57,7 @@ The program code file is all_post_calib.pro
 #### Instructions for use
 
 + Download DKIST data in the fits format from the DKIST DATA Archive to the demodata directory, and issue a comman '.r all_post_calib'
-+ EB_20220223/idl/20230507_1_make_data_08_txt/07/x025_y030.txt is the profile shown in Fig. 3 and 4
++ EB_20220223/idl/make_data_08_txt/x025_y030.txt is the profile shown in Fig. 3 and 4
 
 
 
